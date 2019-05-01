@@ -8,7 +8,4 @@ Videos will be saved as raw h264 files, and can be can be converted to .mp4/.mkv
 
 Recently added a minimalistic video player, but that's not the intent of this project. Videos w
 
-[See demo video](https://www.youtube.com/watch?v=k9tKRqIkQs8)
-
-### Remarks
-**This software is not certified by Google Inc. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
+[See demo video]()

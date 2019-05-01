@@ -6,6 +6,10 @@ This project includes software that allows your Raspberry Pi touch with a touchs
 
 Videos will be saved as raw h264 files, and can be can be converted to .mp4/.mkv easily. Videos older than a given time period will be automatically deleted.
 
-Recently added a minimalistic video player, but that's not the intent of this project. Videos w
+Recently added a minimalistic video player, but that is not the real intent of this project.
+
+I recommend to use with Android Auto! I used https://github.com/f1xpl/openauto, and will be making a writeup about it!
+
 
 [See demo video]()
+

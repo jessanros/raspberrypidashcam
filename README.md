@@ -1,7 +1,9 @@
 # Raspberry Pi Touchscreen Dashcam
 
 ### Description
-This project includes software that allows your Raspberry Pi touch with a touchscreen to serve as a dashcam in the background. The software will record and  place a red blinking button at the top corner of the screen. If pressed, the user can see what's being recorded. A semi transparent floating screen 
+This project includes software that allows your Raspberry Pi touch with a touchscreen to serve as a dashcam in the background. The software will record and  place a red blinking button at the top corner of the screen. If pressed, the user can see what's being recorded. A semi transparent floating screen.
+
+The Raspberry Pi is capable of displaying GPS information, music, and SMS/Call notifications without the need of picking up your phone. All while recording the front of the car and keeping the videos for 30 days.
 
 Videos are saved as raw h264 files, and can be easily converted to .mp4/.mkv. Videos older than a given time period will be automatically deleted.
 

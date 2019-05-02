@@ -19,4 +19,6 @@ I recommend to use with Android Auto! I used https://github.com/f1xpl/openauto, 
 
 Watch a demo of it working here!
 
+[![See recording samples!](https://img.youtube.com/vi/3dCEsQB9DQs/0.jpg)](https://www.youtube.com/watch?v=3dCEsQB9DQs)
+
 [![See demo video](https://img.youtube.com/vi/xWiPFMKHxaA/0.jpg)](https://www.youtube.com/watch?v=xWiPFMKHxaA)

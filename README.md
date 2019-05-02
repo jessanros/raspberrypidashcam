@@ -1,15 +1,15 @@
 # Raspberry Pi Touchscreen Dashcam
 
 ### Description
-This project includes software that allows a Raspberry Pi with a touchscreen to serve as a dashcam in the background. The software will record and  place a red blinking button at the top corner of the screen. If pressed, the user can see what's being recorded. A semi transparent floating screen.
+This project includes software that allows a Raspberry Pi with a touchscreen to serve as a dashcam in the background. The software will record and  place a red blinking button at the top right corner of the screen. If pressed, the user can see what's being recorded. A semi-transparent floating screen will show you a preview of what's being recorded on top of any other Raspberry application.
 
-The Raspberry Pi is capable of displaying GPS information, music, and SMS/Call notifications without the need of picking up your phone. All while recording the front of the car and keeping the videos for 30 days.
+With the help of Android Auto, the Raspberry Pi is also capable of displaying GPS information, music, and SMS/Call notifications without the need of picking up your phone. All while recording the front of the car and keeping the videos for 30 days.
 
 Videos are saved as raw h264 files, and can be easily converted to .mp4/.mkv. Videos older than a given time period will be automatically deleted.
 
 Recently added a minimalistic video player, but that is not the real intent of this project.
 
-I recommend to use with Android Auto! I used https://github.com/f1xpl/openauto, and will be making a writeup about the installation!
+I recommend this software use with Android Auto! I used https://github.com/f1xpl/openauto, and will be making a writeup about the installation!
 
 <a href='https://photos.google.com/share/AF1QipPFi9j003T0m7irMuteYjvDvm_oBUNlAvVtjbGcAWuArn2QXhshB2xr4euxRKBMQQ?key=ZmVuNE1qUlkyalIzUGU1VVd6S3lXZjE5Wks1bEZn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/wF4T_DoXvKUIKpAUVbDLOjs09R0fuy2OzPC2XBlzOrXRTpmnNsWubkGKHHD_PZsEpMzTBTluHjMZ77C5ctkzbRRqdRjJG9FRn8fGHGn2nO92by5t6_-DXAIBfQwVV7t65Roe9p5T_zw=w2400' /></a>
 

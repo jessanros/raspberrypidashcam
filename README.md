@@ -1,5 +1,7 @@
 # Raspberry Pi Touchscreen Dashcam
 
+<a href='https://photos.google.com/share/AF1QipPFi9j003T0m7irMuteYjvDvm_oBUNlAvVtjbGcAWuArn2QXhshB2xr4euxRKBMQQ?key=ZmVuNE1qUlkyalIzUGU1VVd6S3lXZjE5Wks1bEZn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/wF4T_DoXvKUIKpAUVbDLOjs09R0fuy2OzPC2XBlzOrXRTpmnNsWubkGKHHD_PZsEpMzTBTluHjMZ77C5ctkzbRRqdRjJG9FRn8fGHGn2nO92by5t6_-DXAIBfQwVV7t65Roe9p5T_zw=w2400' /></a>
+
 ### Description
 This project includes software that allows a Raspberry Pi with a touchscreen to serve as a dashcam in the background. The software will record and  place a red blinking button at the top right corner of the screen. If pressed, the user can see what's being recorded. A semi-transparent floating screen will show you a preview of what's being recorded on top of any other Raspberry application.
 
@@ -10,8 +12,6 @@ Videos are saved as raw h264 files, and can be easily converted to .mp4/.mkv. Vi
 Recently added a minimalistic video player, but that is not the real intent of this project.
 
 I recommend this software use with Android Auto! I used https://github.com/f1xpl/openauto, and will be making a writeup about the installation!
-
-<a href='https://photos.google.com/share/AF1QipPFi9j003T0m7irMuteYjvDvm_oBUNlAvVtjbGcAWuArn2QXhshB2xr4euxRKBMQQ?key=ZmVuNE1qUlkyalIzUGU1VVd6S3lXZjE5Wks1bEZn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/wF4T_DoXvKUIKpAUVbDLOjs09R0fuy2OzPC2XBlzOrXRTpmnNsWubkGKHHD_PZsEpMzTBTluHjMZ77C5ctkzbRRqdRjJG9FRn8fGHGn2nO92by5t6_-DXAIBfQwVV7t65Roe9p5T_zw=w2400' /></a>
 
 <a href='https://photos.google.com/share/AF1QipMTfZOLtocCwxj2pG3h_KUuP54pWVTIlhc7O90gFnWEnOkBINuojSUpcmEmR93MXA?key=ZlJITV9tTE9TRWVzc3dIYmF6d0FEUWM3NGsxRDh3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/mw_xq_A3Pch9CyPguLtXWnoQo2v_NUucVgW5Ffk-tL5WZjKLn2R3TyXoHvupju91wfnh7M73Gdd_vDFco51JPHVpPWrsO2FbUB29jS5RoHipaINYk0oanOVm8JK5Y-ejb3D6e8Nztos=w2400' /></a>
 

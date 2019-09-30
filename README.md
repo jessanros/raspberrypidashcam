@@ -9,7 +9,7 @@ With the help of Android Auto, the Raspberry Pi is also capable of displaying GP
 
 Videos are saved as raw h264 files, and can be easily converted to .mp4/.mkv. Videos older than a given time period will be automatically deleted.
 
-Recently added a minimalistic video player, but that is not the real intent of this project.
+Recently added a minimalistic video player, but that is not the real intent of this project. The ideal way of retreave a video from the dashcam is to plug the SD card into the computer.
 
 I recommend this software use with Android Auto! I used https://github.com/f1xpl/openauto, and will be making a writeup about the installation!
 
